@@ -12,7 +12,7 @@ Guess letters one by one before you run out of lives!
 - Clean output formatting using `join()`
 
 
-## 🛠 Python knowledge demonstrated
+##  Python knowledge demonstrated
 This small project helped me practice:
 - **Modules and imports** → splitting the project into multiple files (`hangman.py`, `hangman_words.py`, `hangman_art.py`)
 - **Loops and conditions** → using `while` loops, `if/else` logic, and control statements like `continue`
